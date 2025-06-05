@@ -31,7 +31,7 @@ pip install \
 You can enter python run.sh in the terminal to run the code.
 
 ## Visualization
-<img src="imgs/m12.png" style="max-width: 100%; height: auto;">
+<img src="imgs/m12.png" style="max-width: 50%; height: auto;">
 
 ## Result
 The model yields  an area under receiver operating characteristic curve (AUC) of 0.941 (95% confidence interval: 0.891-0.972) on the multi-center external validation dataset. Moreover, the diagnosis based on sonographic video sequences by the model yielded AUC 0.930 (95% confidence interval: 0.876-0.966).
