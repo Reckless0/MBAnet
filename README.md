@@ -11,7 +11,8 @@
 Biliary atresia (BA) is a complex hepatobiliary disease in infants, which is still challenging to diagnose in current clinical practice. We aim to develop and validate a multimodal model by integrating conventional ultrasound, shear wave elastography, and clinical information to help diagnose BA.
 
 ## Requirements
-运行本项目需要安装以下Python包：
+The following python pakage are required :
+```bash
 pip install \
   torch \
   torchvision \
@@ -24,6 +25,7 @@ pip install \
   pandas \
   pretrainedmodels \
   matplotlib
+```
 
 ## Demo
 You can enter python run.sh in the terminal to run the code.
