@@ -12,7 +12,6 @@ Biliary atresia (BA) is a complex hepatobiliary disease in infants, which is sti
 
 ## Requirements
 运行本项目需要安装以下Python包：
-```bash
 pip install \
   torch \
   torchvision \
@@ -34,3 +33,5 @@ You can enter python run.sh in the terminal to run the code.
 
 ## Result
 The model yields  an area under receiver operating characteristic curve (AUC) of 0.941 (95% confidence interval: 0.891-0.972) on the multi-center external validation dataset. Moreover, the diagnosis based on sonographic video sequences by the model yielded AUC 0.930 (95% confidence interval: 0.876-0.966).
+![实验结果描述](imgs/res1.png)
+![实验结果描述](imgs/res2.png)
