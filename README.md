@@ -31,11 +31,9 @@ pip install \
 You can enter python run.sh in the terminal to run the code.
 
 ## Visualization
-<embed 
-  src="imgs/cams.pdf" 
-  type="application/pdf" 
-  width="700" 
-/>
+<center class="half">
+  <img src="imgs/cams.pdf" width=700/>
+</center>
 
 
 ## Result
