@@ -1,4 +1,4 @@
-# Multimodal Biliary Atresia Diagnose System
+# Multimodal Biliary Atresia Diagnosis
 
 ## Content
 - [Overview](#overview)
