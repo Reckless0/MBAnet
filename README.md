@@ -35,10 +35,13 @@ You can enter python run.sh in the terminal to run the code.
 
 ## Result
 The model yields  an area under receiver operating characteristic curve (AUC) of 0.941 (95% confidence interval: 0.891-0.972) on the multi-center external validation dataset. Moreover, the diagnosis based on sonographic video sequences by the model yielded AUC 0.930 (95% confidence interval: 0.876-0.966).
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="imgs/res1.png" alt="结果图1" style="max-width: 48%; height: auto;">
-  <img src="imgs/res2.png" alt="结果图2" style="max-width: 48%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1 1 45%; min-width: 300px; text-align: center;">
+    <img src="imgs/res1.png" alt="Result 1" style="width: 100%; max-width: 500px;">
+    <p style="font-style: italic;">图1: 结果描述1</p>
+  </div>
+  <div style="flex: 1 1 45%; min-width: 300px; text-align: center;">
+    <img src="imgs/res2.png" alt="Result 2" style="width: 100%; max-width: 500px;">
+    <p style="font-style: italic;">图2: 结果描述2</p>
+  </div>
 </div>
-<p align="center">
-  <em>图1: 实验结果对比 (左) res1 (右) res2</em>
-</p>
