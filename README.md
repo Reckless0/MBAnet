@@ -32,7 +32,7 @@ You can enter python run.sh in the terminal to run the code.
 
 ## Visualization
 <center class="half">
-  <img src="imgs/m12.png" width=700/>
+  <img src="imgs/cams.pdf" width=700/>
 </center>
 
 ## Result
