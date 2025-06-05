@@ -2,9 +2,9 @@
 
 ## Content
 - [Overview](#overview)
-- [Requirements](#system-requirements)
+- [Requirements](#requirements)
 - [Demo](#demo)
-- [Visualization](#visual)
+- [Visualization](#visualization)
 - [Result](#result)
 
 ## Overview
