@@ -47,7 +47,6 @@ The model yields  an area under receiver operating characteristic curve (AUC) of
   volume={8},
   number={1},
   pages={1--11},
-  year={2025},
-  publisher={Nature Publishing Group}
+  year={2025}
 }
 ```
