@@ -39,10 +39,10 @@ You can enter python run.sh in the terminal to run the code.
 ## Result
 The model yields  an area under receiver operating characteristic curve (AUC) of 0.941 (95% confidence interval: 0.891-0.972) on the multi-center external validation dataset. Moreover, the diagnosis based on sonographic video sequences by the model yielded AUC 0.930 (95% confidence interval: 0.876-0.966).
 
---
+```
 @article{zhou2025multimodal,
   title={Multimodal model for the diagnosis of biliary atresia based on sonographic images and clinical parameters},
-  author={Zhou, Wenying and Lin, Run and Zheng, Yuanhang and Wang, Shan and Xu, Bin and Tang, Zijian and Wang, Ruixuan and Yu, Cheng and Yan, Hualin and Liu, Juxian and others},
+  author={Zhou, Wenying and Lin, Run and Zheng, Yuanhang and Wang, Shan and Xu, Bin and Tang, Zijian and Wang, Ruixuan and Yu, Cheng and Yan, Hualin and Liu, Juxian, etc.},
   journal={npj Digital Medicine},
   volume={8},
   number={1},
@@ -50,4 +50,4 @@ The model yields  an area under receiver operating characteristic curve (AUC) of
   year={2025},
   publisher={Nature Publishing Group}
 }
---
+```
